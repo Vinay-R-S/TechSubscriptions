@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Google Gemini",
+    "company": "Google",
+    "benefits": "Free Gemini 2.5 Pro",
+    "description": "Unlimited access to Veo 3 Fast, Deep Research, NotebookLM and 2 TB free storage.",
+    "link": "https://gemini.google.com",
+    "image": "https://i.ytimg.com/vi/LI-14hLwHko/hqdefault.jpg"
+  },
+  {
+    "name": "Airtel Perplexity Pro AI",
+    "company": "Airtel x Perplexity",
+    "benefits": "Access to Advanced AI models",
+    "description": "300+ Pro searches/day, real-time citations, expert file analysis, image generation & more via Airtel Thanks app.",
+    "link": "https://www.airtel.in/perplexity-pro/",
+    "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2024/10/perplexity-ai-lawsuit.png"
+  },
+  {
+    "name": "GitHub Student Developer Pack",
+    "company": "GitHub",
+    "benefits": "GitHub Pro, Copilot Pro, Azure $100 credit, JetBrains IDEs, free domains, design tools, cloud credits",
+    "description": "All-in-one developer toolkit for students. Includes IDEs, cloud services, learning platforms, and more.",
+    "link": "https://education.github.com/pack",
+    "image": "https://pngimg.com/d/github_PNG65.png"
+  },
+  {
+    "name": "JetBrains Student License",
+    "company": "JetBrains",
+    "benefits": "IntelliJ IDEA Ultimate, PyCharm Pro, WebStorm, etc.",
+    "description": "Full access to JetBrains professional IDEs free for students.",
+    "link": "https://www.jetbrains.com/community/education/#students",
+    "image": "https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png"
+  },
+  {
+    "name": "Amazon Prime Student India",
+    "company": "Amazon",
+    "benefits": "Youth Offer – cashback or discounts",
+    "description": "While not a traditional 'Prime Student', Amazon India gives cashback and deals to 18–24-year-olds.",
+    "link": "https://www.amazon.in/b?node=15325111031",
+    "image": "https://static.cdnlogo.com/logos/a/5/amazon.png"
+  },
+  {
+    "name": "Microsoft Azure for Students",
+    "company": "Microsoft",
+    "benefits": "$100 in Azure credits, free services for 12 months",
+    "description": "Cloud services and learning tools from Microsoft, no credit card required.",
+    "link": "https://azure.microsoft.com/en-us/free/students/",
+    "image": "https://1000logos.net/wp-content/uploads/2020/06/Microsoft-Azure-Logo-2017.png"
+  },
+  {
+    "name": "Canva for Education",
+    "company": "Canva",
+    "benefits": "Free access to Canva Pro tools and templates",
+    "description": "Graphic design tools for education use—perfect for presentations, posters, and videos.",
+    "link": "https://www.canva.com/education/",
+    "image": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwYqB5CRA8i20O0tGyRHzjcEesWcOw9C_zoFBtCCVzOdp5525q92eS773zOx_R7Bakc-&format=source"
+  },
+  {
+    "name": "Figma Education Plan",
+    "company": "Figma",
+    "benefits": "Free Figma Professional access for students and educators",
+    "description": "UI/UX design collaboration tool with premium features unlocked for students.",
+    "link": "https://www.figma.com/education/",
+    "image": "https://1000logos.net/wp-content/uploads/2024/09/Figma-Logo.jpg"
+  },
+  {
+    "name": "Notion for Students",
+    "company": "Notion",
+    "benefits": "Notion Pro plan free for students",
+    "description": "All-in-one productivity workspace—notes, tasks, wikis, and more.",
+    "link": "https://www.notion.so/students",
+    "image": "https://growthjunkie.com/wp-content/uploads/2022/05/notion-logo.png"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "company": "Adobe",
+    "benefits": "Up to 65% off on Creative Cloud apps",
+    "description": "Discounted access to Photoshop, Illustrator, Premiere Pro, etc. with student verification.",
+    "link": "https://www.adobe.com/in/creativecloud/buy/students.html",
+    "image": "https://www.thesmbguide.com/images/adobe-creative-cloud-express-logo-maker-1024x512-20220131.png"
+  },
+  {
+    "name": "Spotify Premium Student",
+    "company": "Spotify",
+    "benefits": "50% off Premium – ₹59/month",
+    "description": "Ad-free music streaming at student pricing with Student ID verification.",
+    "link": "https://www.spotify.com/in-en/student/",
+    "image": "https://brandingforum.org/wp-content/uploads/2023/10/spotify-logo-1024x651.webp"
+  },
+  {
+    "name": "YouTube Premium Student",
+    "company": "YouTube",
+    "benefits": "₹79/month, ad-free, background play, offline access",
+    "description": "YouTube Premium at discounted rate for eligible students.",
+    "link": "https://www.youtube.com/premium/student",
+    "image": "https://1000logos.net/wp-content/uploads/2017/05/Youtube-Logo.png"
+  },
+  {
+    "name": "Dell Student Discounts",
+    "company": "Dell",
+    "benefits": "Special pricing on laptops and accessories",
+    "description": "Student-specific laptop and peripheral discounts available through Dell India.",
+    "link": "https://www.dell.com/en-in/lp/student-pc-offers",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/190/669/non_2x/dell-logo-dell-icon-free-free-vector.jpg"
+  },
+  {
+    "name": "HP Education Store India",
+    "company": "HP",
+    "benefits": "Discounted HP laptops, monitors, and accessories",
+    "description": "Verify with ID/email to access HP’s student-only pricing.",
+    "link": "https://www.hp.com/in-en/shop/studentstore",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/666ad33c90b7c3001de29d46.png"
+  },
+  {
+    "name": "Lenovo Back-to-College Offer",
+    "company": "Lenovo",
+    "benefits": "Special discounts on laptops + accessories",
+    "description": "Annual student sale on laptops and tablets for academic use.",
+    "link": "https://www.lenovo.com/in/en/d/student-discount/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Lenovo_Global_Corporate_Logo.png"
+  },
+  {
+    "name": "Apple India Back-to-School",
+    "company": "Apple",
+    "benefits": "Discounted Macs, iPads, bundled AirPods/Pencil",
+    "description": "Academic pricing with eligible student ID; offer usually between June–September in India.",
+    "link": "https://www.apple.com/in/shop/education-pricing",
+    "image": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
+  },
+  {
+    "name": "Tableau for Students",
+    "company": "Salesforce Tableau",
+    "benefits": "Free Tableau Desktop + Prep for 1 year",
+    "description": "1-year license for Tableau Desktop and Prep with eLearning access. Great for dashboards and data viz.",
+    "link": "https://www.tableau.com/academic/students",
+    "image": "https://www.vivantio.com/wp-content/uploads/2024-vivantio-integrations-cover-tableau.png"
+  }
+]
