@@ -1,86 +1,65 @@
 [
     {
-        "name": "Devpost",
-        "benefits": "Browse diverse online & in‑person hackathons, build projects, win prizes",
-        "description": "The largest platform for software hackathons and developer challenges worldwide.",
-        "link": "https://devpost.com/hackathons",
-        "image": ""
+        "name": "roadmap.sh",
+        "benefits": "Click-through skill maps for Front-end, Back-end, DevOps, Android, QA, Data Engineer, Blockchain, and more",
+        "description": "Visual interactive roadmaps acting as a ‘what-to-learn-next’ guide for developers across multiple roles.",
+        "link": "https://roadmap.sh",
+        "image": "https://avatars.githubusercontent.com/u/120650344?s=280&v=4"
     },
     {
-        "name": "Devfolio",
-        "benefits": "Focus on India‑based hackathons, portfolio of past projects",
-        "description": "Platform especially popular in India offering hackathon listings and project portfolios.",
-        "link": "https://devfolio.co/hackathons",
-        "image": ""
+        "name": "OSSU Computer Science",
+        "benefits": "Complete bachelor-level CS curriculum with Harvard CS50, Core CS, electives, and capstone project",
+        "description": "An open-source, self-taught computer science curriculum following ACM guidelines; a substitute for a full CS degree.",
+        "link": "https://github.com/ossu/computer-science",
+        "image": "https://avatars.githubusercontent.com/u/14957346?s=280&v=4"
     },
     {
-        "name": "Major League Hacking (MLH)",
-        "benefits": "Official student hackathon league, campus events, global calendar",
-        "description": "MLH organizes and lists collegiate hackathons around the world.",
-        "link": "https://mlh.io/seasons/2025/events",
-        "image": ""
+        "name": "MIT The Missing Semester",
+        "benefits": "Covers shell, Vim, Git, debugging, build systems, and security skills skipped by most CS degrees",
+        "description": "A short, highly practical course from MIT teaching essential developer tools and workflows.",
+        "link": "https://missing.csail.mit.edu/",
+        "image": "https://brand.mit.edu/sites/default/files/styles/image_text_2x/public/2023-08/MIT-lockup-3line-red.png?itok=MJP9Djff"
     },
     {
-        "name": "HackerEarth",
-        "benefits": "Coding challenges, data‑science and ML hackathons, global reach",
-        "description": "Hosts hackathons and coding challenges across engineering and data science domains.",
-        "link": "https://www.hackerearth.com/challenges/hackathon/",
-        "image": ""
+        "name": "TeachYourselfCS.com",
+        "benefits": "Book-based deep dive into core CS subjects like SICP, CS:APP, OS, Networking, DBs, ML math",
+        "description": "A curated list of the best resources to master core computer science concepts through self-study.",
+        "link": "https://teachyourselfcs.com",
+        "image": "https://cdn-icons-png.flaticon.com/512/11337/11337273.png"
     },
     {
-        "name": "Hackathon.com",
-        "benefits": "Search by country, topic or date; global events",
-        "description": "Listings of hackathons worldwide across multiple categories and locations.",
-        "link": "https://www.hackathon.com/",
-        "image": ""
+        "name": "Harvard CS50x",
+        "benefits": "C, Python, SQL, HTML/CSS/JS, problem sets and final project; real-world inspired",
+        "description": "Harvard’s world-famous introductory course to computer science, suitable for beginners or certificate earners.",
+        "link": "https://cs50.harvard.edu/x/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWkUf8ll1nxMkNPkzD3ZZxWfchLISXADXXhPMzmRzffLj_4hjKzpUmaTwovrrvX--img"
     },
     {
-        "name": "Hack Club",
-        "benefits": "High‑school focused hackathons, often online or campus‑based",
-        "description": "A non‑profit network of coding clubs organizing hackathons for high schoolers.",
-        "link": "https://hackathons.hackclub.com/",
-        "image": ""
+        "name": "freeCodeCamp",
+        "benefits": "Project-focused learning with 11 certifications covering front-end, back-end, data science, and more",
+        "description": "A free full-stack web development curriculum ideal for self-learners and career switchers.",
+        "link": "https://www.freecodecamp.org",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVEdsjxfzDPGoh-yI3XEwkhNIJo-5nGWsBBA&s"
     },
     {
-        "name": "Unstop (formerly Dare2Compete)",
-        "benefits": "Hackathons, coding contests, college events, workshops, scholarships",
-        "description": "Indian platform listing hackathons, coding challenges, and other student events.",
-        "link": "https://unstop.com/hackathons",
-        "image": ""
+        "name": "Codecademy Career Paths",
+        "benefits": "Full career tracks like Full-Stack, Front-End, Data Science, with quizzes, projects, and interview prep",
+        "description": "An all-in-one learning platform offering guided paths and job-focused training for multiple tech roles.",
+        "link": "https://www.codecademy.com/",
+        "image": "https://pentagram-production.imgix.net/1cbbfce1-48d5-4257-95e5-745c10e6492e/eo_codecademy_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=375%2C0%2C2256%2C1412&w=880&fit=crop&fm=jpg&q=70&auto=format&h=548"
     },
     {
-        "name": "Hackathon IO",
-        "benefits": "Massive directory of global hackathons, networking with fellow hackers",
-        "description": "Aggregated listings of hackathons worldwide, plus a social network for hackers.",
-        "link": "https://www.hackathon.io/events",
-        "image": ""
+        "name": "Coursera",
+        "benefits": "CSE, Design and many more techincal courses",
+        "description": "An upskilling platform for multiple domains",
+        "link": "https://www.coursera.org/",
+        "image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjIuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZpZXdCb3g9IjAgMCAxMTU1IDE2NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiPjxwYXRoIGQ9Ik0xNTkuNzUgODEuNTRjMC00NC40OSAzNi42My04MC40NyA4Mi40My04MC40NyA0Ni4xMiAwIDgyLjc2IDM2IDgyLjc2IDgwLjQ3IDAgNDQuMTYtMzYuNjQgODAuOC04Mi43NiA4MC44LTQ1LjggMC04Mi40My0zNi42OC04Mi40My04MC44em0xMjUuNjEgMGMwLTIyLjI0LTE5LjMtNDEuODctNDMuMTgtNDEuODctMjMuNTUgMC00Mi44NSAxOS42My00Mi44NSA0MS44NyAwIDIyLjU3IDE5LjMgNDIuMiA0Mi44NSA0Mi4yIDIzLjkyIDAgNDMuMTgtMTkuNjMgNDMuMTgtNDIuMnptNzA1LjYzIDEuMzFjMC00OC43NCAzOS41OC04MS43OCA3NS41Ny04MS43OCAyNC41MyAwIDM4LjYgNy41MiA0OC4wOCAyMS45MmwzLjc3LTE5aDM2Ljc5djE1NS40aC0zNi43OWwtNC43NS0xNmMtMTAuNzkgMTEuNzgtMjQuMjEgMTktNDcuMSAxOS0zNS4zMy0uMDUtNzUuNTctMzEuMTMtNzUuNTctNzkuNTR6bTEyNS42MS0uMzNjLS4wOS0yMy41MjctMTkuNDctNDIuODM1LTQzLTQyLjgzNS0yMy41OSAwLTQzIDE5LjQxMS00MyA0M3YuMTY1YzAgMjEuNTkgMTkuMyA0MC44OSA0Mi44NiA0MC44OSAyMy44NSAwIDQzLjE0LTE5LjMgNDMuMTQtNDEuMjJ6TTk0NS43OCAyMlY0aC00MC4yM3YxNTUuMzloNDAuMjNWNzUuNjZjMC0yNS4xOSAxMi40NC0zOC4yNyAzNC0zOC4yNyAxLjQzIDAgMi43OS4xIDQuMTIuMjNMOTkxLjM2LjExYy0yMC45Ny4xMS0zNi4xNyA3LjMtNDUuNTggMjEuODl6bS00MDQuMjcuMDF2LTE4bC00MC4yMy4wOS4zNCAxNTUuMzcgNDAuMjMtLjA5LS4yMi04My43MmMtLjA2LTI1LjE4IDEyLjM1LTM4LjI5IDMzLjkzLTM4LjM0IDEuMzc2LjAwNCAyLjc1Mi4wODEgNC4xMi4yM0w1ODcuMSAwYy0yMSAuMTctMzYuMjIgNy4zOS00NS41OSAyMi4wMXpNMzM4Ljg4IDk5LjJWNC4wMWg0MC4yMlY5NC4zYzAgMTkuOTUgMTEuMTIgMzEuNzMgMzAuNDIgMzEuNzMgMjEuNTkgMCAzNC0xMy4wOSAzNC0zOC4yOFY0LjAxaDQwLjI0djE1NS4zOGgtNDAuMjF2LTE4Yy05LjQ4IDE0LjcyLTI0Ljg2IDIxLjkyLTQ2LjEyIDIxLjkyLTM1Ljk4LjAxLTU4LjU1LTI2LjE2LTU4LjU1LTY0LjExem0zOTEuNzQtMTcuNDhjLjA5LTQzLjUxIDMxLjIzLTgwLjc0IDgwLjYyLTgwLjY1IDQ1LjguMDkgNzguMTEgMzYuNzggNzggODAgLjAxIDQuMjczLS4zMyA4LjU0LTEgMTIuNzZsLTExOC40MS0uMjJjNC41NCAxOC42NSAxOS44OSAzMi4wOSA0My4xMiAzMi4xNCAxNC4wNiAwIDI5LjEyLTUuMTggMzguMy0xNi45NGwyNy40NCAyMmMtMTQuMTEgMTkuOTMtMzkgMzEuNjYtNjUuNDggMzEuNjEtNDYuNzUtLjE2LTgyLjY3LTM1LjIzLTgyLjU5LTgwLjd6bTExOC4xMi0xNi4xNGMtMi4yNi0xNS43LTE4LjU5LTI3Ljg0LTM3Ljg5LTI3Ljg3LTE4LjY1IDAtMzMuNzEgMTEuMDYtMzkuNjMgMjcuNzNsNzcuNTIuMTR6bS0yNjEuNCA1OS45NGwzNS43Ni0xOC43MmM1LjkxIDEyLjgxIDE3LjczIDIwLjM2IDM0LjQ4IDIwLjM2IDE1LjQzIDAgMjEuMzQtNC45MiAyMS4zNC0xMS44MiAwLTI1LTg0LjcxLTkuODUtODQuNzEtNjcgMC0zMS41MiAyNy41OC00OC4yNiA2MS43Mi00OC4yNiAyNS45NCAwIDQ4LjkyIDExLjQ5IDYxLjQgMzIuODNsLTM1LjQ0IDE4Ljc1Yy01LjI1LTEwLjUxLTE1LjEtMTYuNDItMjcuNTgtMTYuNDItMTIuMTQgMC0xOC4wNiA0LjI3LTE4LjA2IDExLjQ5IDAgMjQuMyA4NC43MSA4Ljg3IDg0LjcxIDY3IDAgMzAuMjEtMjQuNjIgNDguNTktNjQuMzUgNDguNTktMzMuODItLjAzLTU3LjQ2LTExLjE5LTY5LjI3LTM2Ljh6TTAgODEuNTRDMCAzNi43MyAzNi42My43NCA4Mi40My43NGMyNy45NDctLjE5NiA1NC4xODIgMTMuNzM3IDY5LjY3IDM3bC0zNC4zNCAxOS45MmE0Mi45NzIgNDIuOTcyIDAgMDAtMzUuMzMtMTguMzJjLTIzLjU1IDAtNDIuODUgMTkuNjMtNDIuODUgNDIuMiAwIDIyLjU3IDE5LjMgNDIuMiA0Mi44NSA0Mi4yYTQyLjUwMiA0Mi41MDIgMCAwMDM2LjMxLTIwbDM0IDIwLjI4Yy0xNS4zMDcgMjMuOTU1LTQxLjkwMiAzOC40MzEtNzAuMzMgMzguMjhDMzYuNjMgMTYyLjM0IDAgMTI1LjY2IDAgODEuNTR6IiBmaWxsPSIjMDA1NkQyIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48L3N2Zz4="
     },
     {
-        "name": "Hackalist",
-        "benefits": "Filters for travel‑reimbursed events, high‑school friendly",
-        "description": "Open‑source directory of upcoming hackathons with useful filters.",
-        "link": "http://www.hackalist.org/",
-        "image": ""
-    },
-    {
-        "name": "HackathonsNear.Me",
-        "benefits": "City‑based search, map view of local events",
-        "description": "Find hackathons near your city or address with map and filter features.",
-        "link": "http://www.hackathonsnear.me/",
-        "image": ""
-    },
-    {
-        "name": "Lablab.ai",
-        "benefits": "AI/ML‑focused hackathons, global community",
-        "description": "Platform specializing in AI and machine‑learning hackathon events.",
-        "link": "https://lablab.ai/event",
-        "image": ""
-    },
-    {
-        "name": "Eventbrite",
-        "benefits": "General events platform with many hackathons listed by organizers",
-        "description": "Popular events platform where tech & hackathon events are often posted.",
-        "link": "https://www.eventbrite.com/d/online/hackathon/",
-        "image": ""
+        "name": "Udemy",
+        "benefits": "CSE, Design and many more techincal courses",
+        "description": "An upskilling platform for multiple domains",
+        "link": "https://www.udemy.com/",
+        "image": "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
     }
 ]

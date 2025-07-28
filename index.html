@@ -42,8 +42,8 @@
                     class="px-4 py-2 bg-blue-600 rounded hover:bg-blue-700">Benefits of Student ID</button>
                 <button onclick="showSection('resume')" class="px-4 py-2 bg-green-600 rounded hover:bg-green-700">Resume
                     Builders</button>
-                <!-- <button onclick="showSection('resources')"
-                    class="px-4 py-2 bg-purple-600 rounded hover:bg-purple-700">Resource Sites</button> -->
+                <button onclick="showSection('resources')"
+                    class="px-4 py-2 bg-purple-600 rounded hover:bg-purple-700">Resource Sites</button>
                 <button onclick="showSection('hackathon')"
                     class="px-4 py-2 bg-red-600 rounded hover:bg-red-700">Hackathons</button>
             </div>
@@ -68,10 +68,10 @@
         </section>
 
         <!-- RESOURCE SITES PLACEHOLDER -->
-        <!-- <section id="resources" class="mb-16 text-center hidden">
+        <section id="resources" class="mb-16 text-center hidden">
             <h2 class="text-3xl font-semibold mb-4">Resource Websites</h2>
             <div id="resourceGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8"></div>
-        </section> -->
+        </section>
 
         <!-- HACKATHON SECTION -->
         <section id="hackathon" class="mb-16 text-center hidden">
@@ -98,8 +98,7 @@
     </div>
 
     <script>
-        // const sections = ['benefits', 'resume', 'resources', 'hackathon'];
-        const sections = ['benefits', 'resume', 'hackathon'];
+        const sections = ['benefits', 'resume', 'resources', 'hackathon'];
         let dataLoaded = {
             benefits: false,
             resume: false,
@@ -121,15 +120,14 @@
                 } else if (id === "resume") {
                     filename = "./json/resumes.json";
                     gridId = "resumeGrid";
-                } 
-                // else if (id === "resources") {
-                //    filename = "./json/resources.json";
-                //    gridId = "resourceGrid";
-                // } 
+                } else if (id === "resources") {
+                    filename = "./json/resources.json";
+                    gridId = "resourceGrid";
+                }
                 else if (id === "hackathon") {
                     filename = "./json/hackathons.json";
                     gridId = "hackathonGrid";
-                } 
+                }
 
                 if (filename && gridId) {
                     loadDataToGrid(filename, gridId);
