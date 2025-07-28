@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Canva",
+        "company": "Canva",
+        "benefits": "Hundreds of free designer templates and free PDF export",
+        "description": "Offers hundreds of free, designer‑made resume templates with drag‑and‑drop editing and free PDF downloads.",
+        "link": "https://www.canva.com/create/resumes/",
+        "image": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwYqB5CRA8i20O0tGyRHzjcEesWcOw9C_zoFBtCCVzOdp5525q92eS773zOx_R7Bakc-&format=source"
+    },
+    {
+        "name": "Resume.com (Indeed Resume Builder)",
+        "company": "Resume.com / Indeed",
+        "benefits": "100% free builder with AI writing assistance and free PDF/Word downloads",
+        "description": "Simple, no‑cost builder with over 100 samples, AI writing help, and free PDF downloads.",
+        "link": "https://www.resume.com/",
+        "image": "https://www.cnet.com/a/img/resize/9161a761b78b27b84f2591b92b3170152dc18f89/hub/2025/05/12/1094c8cd-9135-422b-b480-ba6a73e36dd3/unnamed.png?auto=webp&width=327"
+    },
+    {
+        "name": "ResumeBuilder.com",
+        "company": "ResumeBuilder.com",
+        "benefits": "30+ ATS‑friendly templates and AI suggestions; free TXT download",
+        "description": "Build using AI‑powered expert guidance and ATS‑friendly templates; free users can download as plain text.",
+        "link": "https://www.resumebuilder.com/",
+        "image": "https://www.resumebuilder.com/wp-content/themes/resumebuilder/assets/images/2023/rb-new-logo-color.svg"
+    },
+    {
+        "name": "Zety Resume Builder",
+        "company": "Zety",
+        "benefits": "AI‑powered builder with free resume creation and unlimited .txt downloads",
+        "description": "Create customized resumes with recruiter‑tested templates and smart suggestions; download for free as plain text (.txt).",
+        "link": "https://zety.com/resume-builder",
+        "image": "https://builder.zety.com/blobcontent/mpcl/zty/images/logo.svg"
+    },
+    {
+        "name": "MyPerfectResume",
+        "company": "MyPerfectResume",
+        "benefits": "40+ ATS‑friendly templates and content suggestions; free .txt download",
+        "description": "AI Resume Builder with professionally written content suggestions and ATS‑optimized templates; free plain text downloads.",
+        "link": "https://www.myperfectresume.com/",
+        "image": "https://www.myperfectresume.com/wp-content/themes/myperfectresume/img/myperfectresume.svg"
+    },
+    {
+        "name": "Resume Genius",
+        "company": "Resume Genius",
+        "benefits": "AI resume builder for fast creation using templates or uploads; free builder",
+        "description": "Free AI‑powered resume creation using build‑from‑scratch or upload options; allows you to draft quickly.",
+        "link": "https://resumegenius.com/",
+        "image": "https://resumegenius.com/wp-content/themes/genesis-rg-v3/images/resume-genius-logo.svg"
+    },
+    {
+        "name": "Wozber",
+        "company": "Wozber",
+        "benefits": "Completely free modern builder with no registration required",
+        "description": "Simple and modern resume builder requiring no signup; entirely free and easy to use with ATS‑friendly layouts.",
+        "link": "https://www.wozber.com/en-us",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75FYD9lo-pTHFEM3GPkgIj5yXGfarpOXygQ&s"
+    },
+    {
+        "name": "Jobscan",
+        "company": "Jobscan",
+        "benefits": "Free resume score (limited), ATS match with job description",
+        "description": "Compare your resume to job listings and get a 1‑100 score with feedback on keywords, formatting, hard & soft skills, and recruiter notes.",
+        "link": "https://www.jobscan.co/resume-score",
+        "image": "https://app.jobscan.co/assets/logo_blue-BVd0FAL8.svg"
+    },
+    {
+        "name": "Resume Worded",
+        "company": "Resume Worded",
+        "benefits": "Free ATS audit & relevancy analysis vs job description",
+        "description": "Instant resume scoring on ATS compliance, impact, brevity, style and targeted job‑match feedback with AI‑powered suggestions.",
+        "link": "https://resumeworded.com/resume-scanner",
+        "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/kzdoxnsbopytttdbwnqi"
+    },
+    {
+        "name": "SkillSyncer",
+        "company": "SkillSyncer",
+        "benefits": "Free keyword match score and resume optimizer",
+        "description": "Scan your resume vs a job description to identify missing keywords, get match score, instant ATS‑friendly optimization suggestions.",
+        "link": "https://skillsyncer.com/",
+        "image": "https://topresumetemplate.com/uploads/file_manager/source/skillsyncer.webp"
+    },
+    {
+        "name": "Enhancv Resume Checker",
+        "company": "Enhancv",
+        "benefits": "Free ATS scoring over 16 checks",
+        "description": "AI-powered checker analyzing formatting, keyword match, grammar, structure and impact using insights from millions of resumes.",
+        "link": "https://enhancv.com/resources/resume-checker",
+        "image": "https://d1011j0lbv5k1u.cloudfront.net/assets/store-494111/494111-logo-1553769801.jpg"
+    },
+    {
+        "name": "Resume‑Now ATS Resume Checker",
+        "company": "Resume‑Now",
+        "benefits": "Free ATS score based on 30+ professional standards",
+        "description": "Upload your resume and get a free AI‑powered ATS score with feedback on formatting, keywords, completeness, grammar, word choice, and structure using 30+ criteria.",
+        "link": "https://www.resume-now.com/resume/ats-resume-checker",
+        "image": "https://www.resume-now.com/sapp/themes/resumenow/img/logo-resume-now.svg"
+    }
+]

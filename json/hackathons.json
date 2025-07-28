@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Devpost",
+        "benefits": "Browse diverse online & in‑person hackathons, build projects, win prizes",
+        "description": "The largest platform for software hackathons and developer challenges worldwide.",
+        "link": "https://devpost.com/hackathons",
+        "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg"
+    },
+    {
+        "name": "Devfolio",
+        "benefits": "Focus on India‑based hackathons, portfolio of past projects",
+        "description": "Platform especially popular in India offering hackathon listings and project portfolios.",
+        "link": "https://devfolio.co/hackathons",
+        "image": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjY3IiB2aWV3Qm94PSIwIDAgMjQxIDY3IiB3aWR0aD0iMjQxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9IiMyZjRhZTQiPjxwYXRoIGQ9Im0wIDEyLjQ2NTFoMTcuNTI1MWM0LjI0NzUtLjExNTEgOC40NjM0Ljc2MTUgMTIuMzE0MyAyLjU2MDYgMy4zMzI1IDEuNjA4NCA2LjA5MzYgNC4yMDAzIDcuOTEyMiA3LjQyNzEgMS45MDQ1IDMuNTM3NCAyLjg1MTkgNy41MTI1IDIuNzQ4IDExLjUzMDIuMTA4OSA0LjAzODMtLjgyODkgOC4wMzYtMi43MjIxIDExLjYwMy0xLjgwMzUgMy4yMjk0LTQuNTU3NCA1LjgyMy03Ljg4NjMgNy40MjcxLTMuODY2OSAxLjgwMDMtOC4wOTgzIDIuNjc2OS0xMi4zNjA5IDIuNTYwNWgtMTcuNTMwM3ptMTYuNDIwNyAzMy43NTk3YzEuNjkxLjEzMTIgMy4zOTEtLjA3NjggNS4wMDA3LS42MTE5czMuMDk2Ni0xLjM4NjUgNC4zNzM3LTIuNTA0NGMxLjEyMDUtMS4yNzY0IDEuOTczMy0yLjc2NTQgMi41MDc3LTQuMzc4NnMuNzM5Ni0zLjMxNzYuNjAzMy01LjAxMThjLjE0MzItMS42OTQ2LS4wNTg3LTMuNDAwOC0uNTkzNS01LjAxNS0uNTM0Ny0xLjYxNDEtMS4zOTEyLTMuMTAyNy0yLjUxNzUtNC4zNzUzLTEuMjg1Ni0xLjEtMi43NzU4LTEuOTM0My00LjM4NDctMi40NTQ4LTEuNjA4OC0uNTIwNi0zLjMwNDYtLjcxNzItNC45ODk3LS41Nzg0aC01LjUzMjN2MjQuOTMwMnoiLz48cGF0aCBkPSJtNzMuNjI2MiA0Mi41ODkyaC0xOC42NjU4Yy4xOTg5IDEuNjMzMyAxLjAwMTggMy4xMzI1IDIuMjUwMyA0LjIwMTggMS4zODUyLjkzOTIgMy4wNDQzIDEuMzg3MiA0LjcxMzEgMS4yNzI0IDMuMDIxNS0uMDM5NiA1Ljk2MDQtLjk5MzggOC40MzA3LTIuNzM3MWwyLjc1MzIgNy4wNzkyYy0xLjY0NDQgMS4xNjk3LTMuNDc3MSAyLjA0ODEtNS40MTgyIDIuNTk2OS0yLjA0NjUuNjE5OS00LjE3MjEuOTM4My02LjMxMDEuOTQ1Mi0zLjA4MjMuMDc4Ny02LjE0MDItLjU2Ny04LjkyODUtMS44ODUzLTIuNDMyLTEuMTg1Ny00LjQ1MTgtMy4wNzY4LTUuNzk2OC01LjQyNzUtMS40MTMzLTIuNTI5NC0yLjEyNTctNS4zOTE0LTIuMDYzNi04LjI4OTMtLjA1MDQtMi44MDgyLjYwNTgtNS41ODM5IDEuOTA4MS04LjA3MTIgMS4yMjItMi4zMTg4IDMuMDc4LTQuMjQxIDUuMzUwOS01LjU0MTggMi4zNjk0LTEuMzQzOCA1LjA1NS0yLjAyNzEgNy43Nzc0LTEuOTc4OCAxLjg4NjQtLjA3MzcgMy43NjY2LjI1OTIgNS41MTM1Ljk3NiAxLjc0Ny43MTY4IDMuMzE5OSAxLjgwMDkgNC42MTI3IDMuMTc5IDIuNTkxNCAzLjEwMSAzLjk2ODEgNy4wNDA2IDMuODczMSAxMS4wODM2em0tMTguNjY1OC01LjE5MzhoOS40MzY2Yy0uMjM1LTMuNTY5OS0xLjgwNjEtNS4zNTQ4LTQuNzEzMS01LjM1NDhzLTQuNDgxNSAxLjc4NDktNC43MjM1IDUuMzU0OHoiLz48cGF0aCBkPSJtOTguMjk2MiAyNS40NDk3aDEwLjY1NDhsLTEzLjQzMzkgMzAuMTI0aC04Ljk5MDdsLTEzLjIyMTYtMzAuMTI0aDExLjQwNjhsNi42MjEyIDE2Ljk3ODV6Ii8+PHBhdGggZD0ibTEyOC4wNjggMjUuOTY5MWg2Ljc0MXY3Ljc5MDdoLTcuMjU5djIxLjgxMzloLTEwLjg4OXYtMjEuODEzOWgtNS4xODV2LTcuNzkwN2g1LjU1M2MtLjAxOS0xLjc1NDguMzQxLTMuNDkyOSAxLjA1Ny01LjA5NDQuNzE3LTEuNjAxNSAxLjc3MS0zLjAyODMgMy4wOTEtNC4xODE4IDMuMzg4LTIuMzY0MyA3LjQzLTMuNjA0OSAxMS41NTgtMy41NDczbDMuNzQzLS4yMzM3LjYyMiA3LjcyMzEtMi44ODMuMTE0M2MtMS42NTEtLjA1Mi0zLjI4OS4zMDQ4LTQuNzcgMS4wMzg4LS40OC4zNjEtLjg1OS44Mzk4LTEuMSAxLjM5MDEtLjI0Mi41NTA0LS4zMzggMS4xNTM4LS4yNzkgMS43NTIxeiIvPjxwYXRoIGQ9Im0xNDQuMzY0IDU0LjAxNThjLTIuNDE2LTEuMjA4LTQuNDI0LTMuMTAzMi01Ljc3LTUuNDQ4My0xLjQtMi41MzE0LTIuMS01LjM5MTItMi4wMjgtOC4yODQxLS4wNzUtMi44ODUuNjI1LTUuNzM3MiAyLjAyOC04LjI1ODIgMS4zNDUtMi4zMTk4IDMuMzQ0LTQuMTkxMyA1Ljc0NS01LjM4MDcgMi43MjktMS4yNDQyIDUuNjkzLTEuODg3OSA4LjY5Mi0xLjg4NzlzNS45NjMuNjQzNyA4LjY5MyAxLjg4NzljMi40MDMgMS4xODg2IDQuNDAzIDMuMDYwMSA1Ljc1IDUuMzgwNyAxLjQwMiAyLjUyMSAyLjEwMiA1LjM3MzIgMi4wMjcgOC4yNTgyLjA3MiAyLjg5MjktLjYyNyA1Ljc1MjctMi4wMjcgOC4yODQxLTEuMzc2IDIuMzU3Ni0zLjQxOCA0LjI1MzYtNS44NyA1LjQ0ODMtMi43MTUgMS4yNjA4LTUuNjczIDEuOTE0LTguNjY2IDEuOTE0LTIuOTk0IDAtNS45NTEtLjY1MzItOC42NjctMS45MTR6bTE0LjQ0MS0xMy42Mzg5YzAtNS4wMzQ2LTEuOTI0LTcuNTUxOC01Ljc3MS03LjU1MTgtMy44NDggMC01Ljc3NSAyLjUxNzItNS43ODIgNy41NTE4IDAgNS4wMzQ1IDEuOTI0IDcuNTUxNyA1Ljc3MSA3LjU1MTcgMy44NDggMCA1Ljc3My0yLjUxNzIgNS43NzYtNy41NTE3eiIvPjxwYXRoIGQ9Im0xNzQuMjE0IDU1LjU3Mzl2LTQzLjEwODZoMTAuODg5djQzLjEwODZ6Ii8+PHBhdGggZD0ibTE5MS4zMjQgMTAuMzg3N2gxMS40MDd2OS44NjgyaC0xMS40MDd6bTAgNDUuMTEzM3YtMzAuMDUxM2gxMC44ODl2MzAuMTI0eiIvPjxwYXRoIGQ9Im0yMTQuOTc4IDU0LjAxNThjLTIuNDE2LTEuMjA4LTQuNDI0LTMuMTAzMi01Ljc3MS01LjQ0ODMtMS4zOTktMi41MzE0LTIuMDk5LTUuMzkxMi0yLjAyNy04LjI4NDEtLjA3NS0yLjg4NS42MjUtNS43MzcyIDIuMDI3LTguMjU4MiAxLjM0Ni0yLjMxOTggMy4zNDQtNC4xOTEzIDUuNzQ1LTUuMzgwNyAyLjczLTEuMjQ0MiA1LjY5NC0xLjg4NzkgOC42OTMtMS44ODc5czUuOTYzLjY0MzcgOC42OTIgMS44ODc5YzIuNDAxIDEuMTg5NCA0LjQgMy4wNjA5IDUuNzQ1IDUuMzgwNyAxLjQwMyAyLjUyMSAyLjEwMyA1LjM3MzIgMi4wMjggOC4yNTgyLjA3MiAyLjg5MjktLjYyOCA1Ljc1MjctMi4wMjggOC4yODQxLTEuMzU2IDIuMzQ3LTMuMzcyIDQuMjQxOS01Ljc5NiA1LjQ0ODMtMi43MTYgMS4yNjA4LTUuNjc0IDEuOTE0LTguNjY3IDEuOTE0cy01Ljk1MS0uNjUzMi04LjY2Ny0xLjkxNHptMTQuNDQtMTMuNTAzOWMwLTUuMDM0NS0xLjkyMy03LjU1MTgtNS43NzEtNy41NTE4LTMuODQ3IDAtNS43NyAyLjUxNzMtNS43NyA3LjU1MThzMS45MjMgNy41NTE4IDUuNzcgNy41NTE4YzMuODQ4IDAgNS43NjMtMi41MTczIDUuNzQ1LTcuNTUxOHoiLz48L2c+PC9zdmc+"
+    },
+    {
+        "name": "Major League Hacking (MLH)",
+        "benefits": "Official student hackathon league, campus events, global calendar",
+        "description": "MLH organizes and lists collegiate hackathons around the world.",
+        "link": "https://mlh.io/seasons/2025/events",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOb_HWnDVLnpWWd_KBE1ovqZi5dt4X_b-NAvoTJPyTTfl0UDxigvedZnq&s=10"
+    },
+    {
+        "name": "HackerEarth",
+        "benefits": "Coding challenges, data‑science and ML hackathons, global reach",
+        "description": "Hosts hackathons and coding challenges across engineering and data science domains.",
+        "link": "https://www.hackerearth.com/challenges/hackathon/",
+        "image": "https://www.hackerearth.com/blog/wp-content/uploads/2015/09/hackerearth_old_logo.jpg"
+    },
+    {
+        "name": "Hackathon.com",
+        "benefits": "Search by country, topic or date; global events",
+        "description": "Listings of hackathons worldwide across multiple categories and locations.",
+        "link": "https://www.hackathon.com/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2mVN6SU71zm6gfNW2ZCA6he7T5i8f8dtPg&s"
+    },
+    {
+        "name": "Hack Club",
+        "benefits": "High‑school focused hackathons, often online or campus‑based",
+        "description": "A non‑profit network of coding clubs organizing hackathons for high schoolers.",
+        "link": "https://hackathons.hackclub.com/",
+        "image": "https://wrapupskin.com/cdn/shop/products/HackClubSticker.jpg?v=1665519861"
+    },
+    {
+        "name": "Unstop (formerly Dare2Compete)",
+        "benefits": "Hackathons, coding contests, college events, workshops, scholarships",
+        "description": "Indian platform listing hackathons, coding challenges, and other student events.",
+        "link": "https://unstop.com/hackathons",
+        "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg"
+    },
+    {
+        "name": "Hackalist",
+        "benefits": "Filters for travel‑reimbursed events, high‑school friendly",
+        "description": "Open‑source directory of upcoming hackathons with useful filters.",
+        "link": "http://www.hackalist.org/",
+        "image": "https://www.hackalist.org/images/logo.png"
+    },
+    {
+        "name": "HackathonsNear.Me",
+        "benefits": "City‑based search, map view of local events",
+        "description": "Find hackathons near your city or address with map and filter features.",
+        "link": "http://www.hackathonsnear.me/",
+        "image": "https://www.hackathonsnear.me/img/logo_v2.png"
+    },
+    {
+        "name": "Lablab.ai",
+        "benefits": "AI/ML‑focused hackathons, global community",
+        "description": "Platform specializing in AI and machine‑learning hackathon events.",
+        "link": "https://lablab.ai/event",
+        "image": "https://lablab.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flablab-logo.8496f44c.png&w=48&q=75"
+    },
+    {
+        "name": "Eventbrite",
+        "benefits": "General events platform with many hackathons listed by organizers",
+        "description": "Popular events platform where tech & hackathon events are often posted.",
+        "link": "https://www.eventbrite.com/d/online/hackathon/",
+        "image": "https://s206.q4cdn.com/385822602/files/doc_multimedia/2025/3/1009447258/Eventbrite_Hero_Logo@square.png"
+    }
+]

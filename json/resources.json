@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Devpost",
+        "benefits": "Browse diverse online & in‑person hackathons, build projects, win prizes",
+        "description": "The largest platform for software hackathons and developer challenges worldwide.",
+        "link": "https://devpost.com/hackathons",
+        "image": ""
+    },
+    {
+        "name": "Devfolio",
+        "benefits": "Focus on India‑based hackathons, portfolio of past projects",
+        "description": "Platform especially popular in India offering hackathon listings and project portfolios.",
+        "link": "https://devfolio.co/hackathons",
+        "image": ""
+    },
+    {
+        "name": "Major League Hacking (MLH)",
+        "benefits": "Official student hackathon league, campus events, global calendar",
+        "description": "MLH organizes and lists collegiate hackathons around the world.",
+        "link": "https://mlh.io/seasons/2025/events",
+        "image": ""
+    },
+    {
+        "name": "HackerEarth",
+        "benefits": "Coding challenges, data‑science and ML hackathons, global reach",
+        "description": "Hosts hackathons and coding challenges across engineering and data science domains.",
+        "link": "https://www.hackerearth.com/challenges/hackathon/",
+        "image": ""
+    },
+    {
+        "name": "Hackathon.com",
+        "benefits": "Search by country, topic or date; global events",
+        "description": "Listings of hackathons worldwide across multiple categories and locations.",
+        "link": "https://www.hackathon.com/",
+        "image": ""
+    },
+    {
+        "name": "Hack Club",
+        "benefits": "High‑school focused hackathons, often online or campus‑based",
+        "description": "A non‑profit network of coding clubs organizing hackathons for high schoolers.",
+        "link": "https://hackathons.hackclub.com/",
+        "image": ""
+    },
+    {
+        "name": "Unstop (formerly Dare2Compete)",
+        "benefits": "Hackathons, coding contests, college events, workshops, scholarships",
+        "description": "Indian platform listing hackathons, coding challenges, and other student events.",
+        "link": "https://unstop.com/hackathons",
+        "image": ""
+    },
+    {
+        "name": "Hackathon IO",
+        "benefits": "Massive directory of global hackathons, networking with fellow hackers",
+        "description": "Aggregated listings of hackathons worldwide, plus a social network for hackers.",
+        "link": "https://www.hackathon.io/events",
+        "image": ""
+    },
+    {
+        "name": "Hackalist",
+        "benefits": "Filters for travel‑reimbursed events, high‑school friendly",
+        "description": "Open‑source directory of upcoming hackathons with useful filters.",
+        "link": "http://www.hackalist.org/",
+        "image": ""
+    },
+    {
+        "name": "HackathonsNear.Me",
+        "benefits": "City‑based search, map view of local events",
+        "description": "Find hackathons near your city or address with map and filter features.",
+        "link": "http://www.hackathonsnear.me/",
+        "image": ""
+    },
+    {
+        "name": "Lablab.ai",
+        "benefits": "AI/ML‑focused hackathons, global community",
+        "description": "Platform specializing in AI and machine‑learning hackathon events.",
+        "link": "https://lablab.ai/event",
+        "image": ""
+    },
+    {
+        "name": "Eventbrite",
+        "benefits": "General events platform with many hackathons listed by organizers",
+        "description": "Popular events platform where tech & hackathon events are often posted.",
+        "link": "https://www.eventbrite.com/d/online/hackathon/",
+        "image": ""
+    }
+]

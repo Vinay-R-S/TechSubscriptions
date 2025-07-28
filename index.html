@@ -19,109 +19,166 @@
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.1);
         }
+
+        .hidden {
+            display: none;
+        }
     </style>
 </head>
 
 <body class="min-h-screen bg-black text-gray-100">
 
     <main class="pt-4 p-6 md:p-10 container mx-auto">
-        <section id="home" class="text-center mb-16">
+        <!-- HERO -->
+        <section id="home" class="text-center mb-6">
             <img src="./VikshaCropped.jpg" alt="Club Logo" class="mx-auto h-64 w-64" />
             <h1 class="text-4xl font-bold mb-2">Welcome to Viksha Coding Club</h1>
-            <p class="max-w-2xl mx-auto">We’re a community of passionate coders at RVU, hosting workshops, hackathons,
-                and study sessions. Dive in to level up your skills!</p>
-        </section>
+            <p class="max-w-2xl mx-auto mb-4">We’re a community of passionate coders at RVU, hosting workshops,
+                hackathons, and study sessions. Dive in to level up your skills!</p>
 
-        <section id="why" class="mb-16 text-center">
-            <h2 class="text-3xl font-semibold mb-4">Why is a Student Email ID Important?</h2>
-            <p>As students, we get access to powerful tools for free or at a discount.
-                Below is a curated list of subscriptions you can unlock using your college or student email.
-                Each resource helps you build, design, collaborate, and learn — all while saving money.</p>
-            <br><br>
-            <p class="max-w-3xl mx-auto">
-                Your <span class="text-blue-400 font-medium">student email</span> (usually ending in
-                <code>.edu</code> or your university's domain - <code>abc.btechxx@rvu.edu.in</code>) is your digital
-                identity as a student.
-                Many companies use it to verify that you are eligible for their student offers.
-            </p>
-            <div class="max-w-3xl mx-auto mt-4 space-y-2 text-left">
-                <p>✅ Unlock free access to premium tools like GitHub, JetBrains, Canva, Notion, and more</p>
-                <p>✅ Enjoy major discounts on productivity, design, cloud and coding platforms</p>
-                <p>✅ Early access to student developer programs and certifications</p>
-                <p>✅ Get verified quickly without extra documents</p>
+            <!-- NAV BUTTONS -->
+            <div class="flex flex-wrap justify-center gap-2">
+                <button onclick="showSection('benefits')"
+                    class="px-4 py-2 bg-blue-600 rounded hover:bg-blue-700">Benefits of Student ID</button>
+                <button onclick="showSection('resume')" class="px-4 py-2 bg-green-600 rounded hover:bg-green-700">Resume
+                    Builders</button>
+                <button onclick="showSection('resources')"
+                    class="px-4 py-2 bg-purple-600 rounded hover:bg-purple-700">Resource Sites</button>
+                <button onclick="showSection('hackathon')"
+                    class="px-4 py-2 bg-red-600 rounded hover:bg-red-700">Hackathons</button>
             </div>
-
         </section>
 
-        <section id="subscriptions" class="mb-16 text-center">
-            <h2 class="text-3xl font-semibold mb-6">Student Tech Subscriptions</h2>
-            <div id="subscriptionsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4"></div>
+        <!-- BENEFITS SECTION -->
+        <section id="benefits" class="mb-16 text-center">
+            <h2 class="text-3xl font-semibold mb-4">Why is a Student Email ID Important?</h2>
+            <p class="max-w-3xl mx-auto">
+                Your <span class="text-blue-400 font-medium">student email</span> (e.g. <code>you@rvu.edu.in</code>)
+                unlocks
+                premium tools, discounts, and early access to developer programs. Just verify once and you’re set!
+            </p>
+            <!-- Subscription Cards (loaded on click) -->
+            <div id="subscriptionsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8"></div>
         </section>
 
+        <!-- RESUME SECTION -->
+        <section id="resume" class="mb-16 hidden">
+            <h2 class="text-3xl font-semibold mb-6 text-center">Top Resume Builders</h2>
+            <div id="resumeGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4"></div>
+        </section>
 
-        <!-- Modal -->
-        <div id="modal" class="fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center hidden z-50">
-            <div id="modalBox" class="bg-gray-900 p-6 rounded-2xl max-w-lg w-full shadow-xl relative">
-                <img id="modalImage" src="" alt="Subscription Logo"
-                    class="w-full h-48 object-contain mb-4 rounded-lg bg-white p-2" />
-                <h3 id="modalName" class="text-2xl font-bold mb-2"></h3>
-                <p id="modalCompany" class="mb-2 text-sm text-gray-400"></p>
-                <p id="modalDescription" class="mb-4 text-sm"></p>
-                <p><strong>Benefits:</strong> <span id="modalBenefits"></span></p>
-                <div class="text-right mt-6 flex justify-between items-center">
-                    <a id="modalLink" href="#" target="_blank"
-                        class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm">Visit Link</a>
-                    <button onclick="closeModal()"
-                        class="px-4 py-2 bg-gray-700 rounded hover:bg-gray-600 text-sm">Close</button>
-                </div>
+        <!-- RESOURCE SITES PLACEHOLDER -->
+        <section id="resources" class="mb-16 text-center hidden">
+            <h2 class="text-3xl font-semibold mb-4">Resource Websites</h2>
+            <div id="resourceGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8"></div>
+        </section>
+
+        <!-- HACKATHON SECTION -->
+        <section id="hackathon" class="mb-16 text-center hidden">
+            <h2 class="text-3xl font-semibold mb-4">Upcoming Hackathons & Events</h2>
+            <div id="hackathonGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8"></div>
+        </section>
+    </main>
+
+    <!-- MODAL -->
+    <div id="modal" class="fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center hidden z-50">
+        <div id="modalBox" class="bg-gray-900 p-6 rounded-2xl max-w-lg w-full shadow-xl relative">
+            <img id="modalImage" src="" alt="Logo" class="w-full h-48 object-contain mb-4 rounded-lg bg-white p-2" />
+            <h3 id="modalName" class="text-2xl font-bold mb-2"></h3>
+            <p id="modalCompany" class="mb-2 text-sm text-gray-400"></p>
+            <p id="modalDescription" class="mb-4 text-sm"></p>
+            <p><strong>Benefits:</strong> <span id="modalBenefits"></span></p>
+            <div class="text-right mt-6 flex justify-between items-center">
+                <a id="modalLink" href="#" target="_blank"
+                    class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm">Visit Link</a>
+                <button onclick="closeModal()"
+                    class="px-4 py-2 bg-gray-700 rounded hover:bg-gray-600 text-sm">Close</button>
             </div>
         </div>
+    </div>
 
+    <script>
+        const sections = ['benefits', 'resume', 'resources', 'hackathon'];
+        let dataLoaded = {
+            benefits: false,
+            resume: false,
+            hackathon: false
+        };
 
-        <script>
-            function openModal(sub) {
-                document.getElementById("modalName").textContent = sub.name;
-                document.getElementById("modalCompany").textContent = "Company: " + (sub.company || "Unknown");
-                document.getElementById("modalDescription").textContent = sub.description;
-                document.getElementById("modalBenefits").textContent = sub.benefits;
-                document.getElementById("modalImage").src = sub.image || "https://via.placeholder.com/300x100?text=No+Image";
-                document.getElementById("modalLink").href = sub.link;
-                document.getElementById("modal").classList.remove("hidden");
+        function showSection(id) {
+            sections.forEach(sec => {
+                document.getElementById(sec).classList.toggle('hidden', sec !== id);
+            });
+
+            if (!dataLoaded[id]) {
+                let filename = "";
+                let gridId = "";
+
+                if (id === "benefits") {
+                    filename = "./json/subscriptions.json";
+                    gridId = "subscriptionsGrid";
+                } else if (id === "resume") {
+                    filename = "./json/resumes.json";
+                    gridId = "resumeGrid";
+                } else if (id === "resources") {
+                    filename = "./json/resources.json";
+                    gridId = "resourceGrid";
+                } else if (id === "hackathon") {
+                    filename = "./json/hackathons.json";
+                    gridId = "hackathonGrid";
+                } 
+
+                if (filename && gridId) {
+                    loadDataToGrid(filename, gridId);
+                    dataLoaded[id] = true;
+                }
             }
+        }
 
-            function closeModal() {
-                document.getElementById("modal").classList.add("hidden");
-            }
-
-            fetch("subscriptions.json")
-                .then((res) => res.json())
-                .then((subscriptions) => {
-                    const grid = document.getElementById("subscriptionsGrid");
-                    subscriptions.forEach(sub => {
+        function loadDataToGrid(jsonFile, gridId) {
+            fetch(jsonFile)
+                .then(res => res.json())
+                .then(items => {
+                    const grid = document.getElementById(gridId);
+                    grid.innerHTML = '';
+                    items.forEach(sub => {
                         const card = document.createElement("div");
                         card.className = "glass p-4 rounded-2xl shadow-lg cursor-pointer transition transform hover:scale-105";
                         card.onclick = () => openModal(sub);
                         card.innerHTML = `
-            <img src="${sub.image || 'https://via.placeholder.com/400x200?text=No+Image'}" 
-                 alt="${sub.name}" 
-                 class="w-full h-40 object-cover rounded-lg mb-4 bg-white" />
-            <h3 class="text-xl font-semibold mb-1">${sub.name}</h3>
-            <p class="text-sm text-gray-400 mb-1">Company: ${sub.company || 'N/A'}</p>
-            <p class="text-sm text-gray-300 line-clamp-3">${sub.description}</p>
-          `;
+                    <img src="${sub.image || 'https://via.placeholder.com/400x200?text=No+Image'}"
+                         alt="${sub.name}" 
+                         class="w-full h-40 object-cover rounded-lg mb-4 bg-white" />
+                    <h3 class="text-xl font-semibold mb-1">${sub.name}</h3>
+                    <p class="text-sm text-gray-300 line-clamp-3">${sub.description}</p>
+                `;
                         grid.appendChild(card);
                     });
                 });
+        }
 
-            // Close modal if clicked outside the modal box
-            document.getElementById("modal").addEventListener("click", (e) => {
-                const modalBox = document.getElementById("modalBox");
-                if (!modalBox.contains(e.target)) {
-                    closeModal();
-                }
-            });
+        function openModal(sub) {
+            document.getElementById("modalName").textContent = sub.name;
+            document.getElementById("modalDescription").textContent = sub.description;
+            document.getElementById("modalBenefits").textContent = sub.benefits;
+            document.getElementById("modalImage").src = sub.image || "https://via.placeholder.com/300x100?text=No+Image";
+            document.getElementById("modalLink").href = sub.link;
+            document.getElementById("modal").classList.remove("hidden");
+        }
 
-        </script>
+        function closeModal() {
+            document.getElementById("modal").classList.add("hidden");
+        }
+
+        document.getElementById("modal").addEventListener("click", e => {
+            if (!document.getElementById("modalBox").contains(e.target)) {
+                closeModal();
+            }
+        });
+
+        showSection('benefits');
+
+    </script>
 </body>
 
 </html>
