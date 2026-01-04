@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "name": "Google Gemini",
+            "benefits": "Free Gemini 2.5 Pro",
+            "description": "Unlimited access to Veo 3 Fast, Deep Research, NotebookLM and 2 TB free storage.",
+            "link": "https://gemini.google.com",
+            "image": "https://i.ytimg.com/vi/LI-14hLwHko/hqdefault.jpg"
+        },
+        {
+            "name": "Dell Student Discounts",
+            "benefits": "Special pricing on laptops and accessories",
+            "description": "Student-specific laptop and peripheral discounts available through Dell India.",
+            "link": "https://www.dell.com/en-in/lp/student-pc-offers",
+            "image": "https://static.vecteezy.com/system/resources/previews/020/190/669/non_2x/dell-logo-dell-icon-free-free-vector.jpg"
+        },
+        {
+            "name": "HP Education Store India",
+            "benefits": "Discounted HP laptops, monitors, and accessories",
+            "description": "Verify with ID/email to access HP’s student-only pricing.",
+            "link": "https://www.hp.com/in-en/shop/studentstore",
+            "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/666ad33c90b7c3001de29d46.png"
+        },
+        {
+            "name": "Lenovo Back-to-College Offer",
+            "benefits": "Special discounts on laptops + accessories",
+            "description": "Annual student sale on laptops and tablets for academic use.",
+            "link": "https://www.lenovo.com/in/en/d/student-discount/",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Lenovo_Global_Corporate_Logo.png"
+        },
+        {
+            "name": "Apple India Back-to-School",
+            "benefits": "Discounted Macs, iPads, bundled AirPods/Pencil",
+            "description": "Academic pricing with eligible student ID; offer usually between June–September in India.",
+            "link": "https://www.apple.com/in/shop/education-pricing",
+            "image": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
+        }
+    ],
+    [
+
+    ]
+]

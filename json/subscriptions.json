@@ -1,12 +1,5 @@
 [
   {
-    "name": "Google Gemini",
-    "benefits": "Free Gemini 2.5 Pro",
-    "description": "Unlimited access to Veo 3 Fast, Deep Research, NotebookLM and 2 TB free storage.",
-    "link": "https://gemini.google.com",
-    "image": "https://i.ytimg.com/vi/LI-14hLwHko/hqdefault.jpg"
-  },
-  {
     "name": "Perplexity Pro AI",
     "benefits": "Access to Advanced AI models",
     "description": "300+ Pro searches/day, real-time citations, expert file analysis, image generation Student",
@@ -29,9 +22,9 @@
   },
   {
     "name": "Amazon Prime Student India",
-    "benefits": "Youth Offer – cashback or discounts",
+    "benefits": "Youth Offer - cashback or discounts",
     "description": "While not a traditional 'Prime Student', Amazon India gives cashback and deals to 18–24-year-olds.",
-    "link": "https://www.amazon.in/b?node=15325111031",
+    "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GAHEWLGGJTWD9NK5",
     "image": "https://static.cdnlogo.com/logos/a/5/amazon.png"
   },
   {
@@ -71,45 +64,17 @@
   },
   {
     "name": "Spotify Premium Student",
-    "benefits": "50% off Premium – ₹59/month",
+    "benefits": "50% off Premium - ₹99/month",
     "description": "Ad-free music streaming at student pricing with Student ID verification.",
     "link": "https://www.spotify.com/in-en/student/",
     "image": "https://brandingforum.org/wp-content/uploads/2023/10/spotify-logo-1024x651.webp"
   },
   {
     "name": "YouTube Premium Student",
-    "benefits": "₹79/month, ad-free, background play, offline access",
+    "benefits": "₹89/month, ad-free, background play, offline access",
     "description": "YouTube Premium at discounted rate for eligible students.",
     "link": "https://www.youtube.com/premium/student",
     "image": "https://1000logos.net/wp-content/uploads/2017/05/Youtube-Logo.png"
-  },
-  {
-    "name": "Dell Student Discounts",
-    "benefits": "Special pricing on laptops and accessories",
-    "description": "Student-specific laptop and peripheral discounts available through Dell India.",
-    "link": "https://www.dell.com/en-in/lp/student-pc-offers",
-    "image": "https://static.vecteezy.com/system/resources/previews/020/190/669/non_2x/dell-logo-dell-icon-free-free-vector.jpg"
-  },
-  {
-    "name": "HP Education Store India",
-    "benefits": "Discounted HP laptops, monitors, and accessories",
-    "description": "Verify with ID/email to access HP’s student-only pricing.",
-    "link": "https://www.hp.com/in-en/shop/studentstore",
-    "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/666ad33c90b7c3001de29d46.png"
-  },
-  {
-    "name": "Lenovo Back-to-College Offer",
-    "benefits": "Special discounts on laptops + accessories",
-    "description": "Annual student sale on laptops and tablets for academic use.",
-    "link": "https://www.lenovo.com/in/en/d/student-discount/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Lenovo_Global_Corporate_Logo.png"
-  },
-  {
-    "name": "Apple India Back-to-School",
-    "benefits": "Discounted Macs, iPads, bundled AirPods/Pencil",
-    "description": "Academic pricing with eligible student ID; offer usually between June–September in India.",
-    "link": "https://www.apple.com/in/shop/education-pricing",
-    "image": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
   },
   {
     "name": "Tableau for Students",
